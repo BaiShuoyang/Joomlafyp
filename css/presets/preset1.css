@@ -32,10 +32,11 @@ a:not(.btn):hover {
   color: #22b8f0;
 }
 body {
-  color: #eaeaea;
+  color: #000000;
 }
 body.bg {
-  background-image:url(../../images/backgroundblack.jpg);
+  background-color:#ffffff;
+  //background-image:url(../../images/backgroundblack.jpg);
   background-repeat:repeat-x;
         background-position:center;
         background-attachment:fixed;
