@@ -32,10 +32,10 @@ a:not(.btn):hover {
   color: #22b8f0;
 }
 body {
-  color: #eaeaea;
+  color: #000;
 }
 body.bg {
-  background: #22b8f0;
+  background: #fff;
 }
 #sp-header-wrapper {
   background-color: #0c80aa;
