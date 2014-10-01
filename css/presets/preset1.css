@@ -32,14 +32,10 @@ a:not(.btn):hover {
   color: #22b8f0;
 }
 body {
-  color: #000000;
+  color: #eaeaea;
 }
 body.bg {
-  background-color:#ffffff;
-  //background-image:url(../../images/backgroundblack.jpg);
-  background-repeat:repeat-x;
-        background-position:center;
-        background-attachment:fixed;
+  background: #22b8f0;
 }
 #sp-header-wrapper {
   background-color: #0c80aa;
@@ -78,7 +74,7 @@ body.bg {
 }
 #sp-bottom-wrapper,
 #sp-footer-wrapper {
-  background: transparent;
+  background: #085571;
   color: #fff;
 }
 #sp-bottom-wrapper h3,
@@ -94,10 +90,10 @@ body.bg {
   color: #b1e6fa;
 }
 #sp-footer-wrapper {
-  border-top: 0;
+  border-top: 1px solid #043142;
 }
 #sp-footer-wrapper::after {
-  //background: #0a6e93;
+  background: #0a6e93;
 }
 .sp-border {
   border-top: 1px solid #043142;
